@@ -1,0 +1,7 @@
+html{
+    font: 20px/1.5 sans-serif, monospace;
+}
+
+body, table, input, textarea, option, select, button{
+    font: inherit;
+}

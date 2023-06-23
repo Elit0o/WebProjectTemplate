@@ -1,0 +1,21 @@
+body{
+    background: #000;
+    background: linear-gradient(30deg,#00172D, #000B18);
+    padding: 2em;
+}
+
+a{
+    color: #607B96;
+}
+
+.site{
+    background: linear-gradient(30deg, #000B18, #02386E);
+    color: #607B96;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+
+.site-main{
+    height: 100vh;
+}
+
