@@ -1,8 +1,8 @@
-# WebProjectTemplate
-Portfolio template
-I've created this "portfolio" as an exercise.
-Feel free to contact me if you have any suggestions.
-I will keep improving this project and committing to this repo.
+# WebProjectTemplate<br />
+Portfolio template<br />
+I've created this "portfolio" as an exercise.<br />
+Feel free to contact me if you have any suggestions.<br />
+I will keep improving this project and committing to this repo.<br />
 Also, my social media accounts are linked there :D.<br />
 
 GitHub: https://github.com/Elit0o<br />
